@@ -8,7 +8,7 @@ About Me:
 - Continuous Learner: I'm always eager to learn and explore new technologies, tools, and methodologies to enhance my skills and stay up-to-date with the latest industry trends.
 
 Get in touch:
-LinkedIn: <a href="https://www.linkedin.com/in/frascalise/">frascalise<\a>
+LinkedIn: <a href="https://www.linkedin.com/in/frascalise/">frascalise </a>
 
 <!---
 frascalise/frascalise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
