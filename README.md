@@ -10,7 +10,7 @@ I'm Francesco, a computer science student at the University of Modena and Reggio
 <h2>Get in touch:</h2>
 - LinkedIn: <a href="https://www.linkedin.com/in/frascalise/">frascalise </a>
 
-<img src="https://myreadme.vercel.app/api/embed/frascalise?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/frascalise?panels=userstatistics,toprepositories,toplanguages,commitgraph,userwelcome" alt="reimaginedreadme" />
 <!---
 frascalise/frascalise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
