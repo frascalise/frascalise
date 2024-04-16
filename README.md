@@ -1,7 +1,13 @@
-<img src="https://myreadme.vercel.app/api/embed/frascalise?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+### Hi there 👋, my name is Francesco
+![](https://myreadme.vercel.app/api/embed/frascalise?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frascalise&show_icons=true&theme=radical)
-<!---
-frascalise/frascalise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###### My Skills:
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,php,mysql,django,js,html,css)](https://skillicons.dev)
+
+<br>
+
+###### Contact me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/frascalise)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frascalise/)  
+
+
+
