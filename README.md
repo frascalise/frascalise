@@ -4,7 +4,7 @@
 📖 I'm studying at university  
   
 
-⚡ I have worked on several projects, both alone and in a team  
+⚡ I have worked on several projects, both alone and in team  
   
 
 <br/>  
