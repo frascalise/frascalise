@@ -1,11 +1,4 @@
-## I'm Francesco, a computer science student and future full-stack developer 👨‍💻  
-  
-
-📖 I'm studying at university  
-  
-
-⚡ I have worked on several projects, both alone and in team  
-  
+## I'm Francesco, an Artificial Intelligence Engineering student
 
 <br/>  
 
