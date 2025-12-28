@@ -40,7 +40,7 @@ I'm a passionate student diving deep into the world of Artificial Intelligence.
 ## 🤝 Connect with me
 <div align="left">
   <a href="https://scalise.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-scalise.dev-purple?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/-scalise.dev-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=8A2BE2" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/frascalise" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
