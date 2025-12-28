@@ -16,8 +16,6 @@ I'm a passionate student diving deep into the world of Artificial Intelligence.
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
 </div>
 
-<br/>
-
 ### 💻 Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -27,8 +25,6 @@ I'm a passionate student diving deep into the world of Artificial Intelligence.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
-
-<br/>
 
 ### 🔧 Tools & Frameworks
 <div align="left">
