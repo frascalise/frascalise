@@ -42,7 +42,7 @@ I'm a passionate student diving deep into the world of Artificial Intelligence.
 ---
 
 ## 🤝 Connect with me
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/frascalise" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
