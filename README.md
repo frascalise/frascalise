@@ -43,6 +43,6 @@ I'm a passionate student diving deep into the world of Artificial Intelligence.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://scalise.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-scalise.dev-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-scalise.dev-purple?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </div>
