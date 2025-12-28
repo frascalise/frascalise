@@ -4,6 +4,7 @@
 
 I'm a passionate student diving deep into the world of Artificial Intelligence.
 
+<br/>
 
 ## 🛠️ Languages and Tools
 
@@ -37,6 +38,8 @@ I'm a passionate student diving deep into the world of Artificial Intelligence.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </div>
+
+<br/>
 
 ## 🤝 Connect with me
 <div align="left">
